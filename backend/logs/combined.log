@@ -1,0 +1,10 @@
+2025-03-07T06:36:42.619Z [INFO]: Server running on port 3306
+2025-03-07T06:36:52.633Z [ERROR]: Database Error: connect ETIMEDOUT
+2025-03-07T06:39:51.178Z [INFO]: Server running on port 3306
+2025-03-07T06:40:01.190Z [ERROR]: Database Error: connect ETIMEDOUT
+2025-03-07T06:57:14.254Z [INFO]: Server running on port 3306
+2025-03-07T06:57:24.261Z [ERROR]: Database Error: connect ETIMEDOUT
+2025-03-07T08:13:50.091Z [INFO]: Server running on port 3306
+2025-03-07T08:13:50.104Z [ERROR]: Database Error: getaddrinfo ENOTFOUND 192.168.68.97/phpmyadmin
+2025-03-07T08:33:51.808Z [INFO]: Server running on port 3306
+2025-03-07T08:34:01.817Z [ERROR]: Database Error: connect ETIMEDOUT

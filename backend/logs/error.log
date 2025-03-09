@@ -1,0 +1,5 @@
+2025-03-07T06:36:52.633Z [ERROR]: Database Error: connect ETIMEDOUT
+2025-03-07T06:40:01.190Z [ERROR]: Database Error: connect ETIMEDOUT
+2025-03-07T06:57:24.261Z [ERROR]: Database Error: connect ETIMEDOUT
+2025-03-07T08:13:50.104Z [ERROR]: Database Error: getaddrinfo ENOTFOUND 192.168.68.97/phpmyadmin
+2025-03-07T08:34:01.817Z [ERROR]: Database Error: connect ETIMEDOUT
